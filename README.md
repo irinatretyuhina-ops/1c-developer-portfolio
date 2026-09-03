@@ -95,22 +95,6 @@
 
 ---
 
-# Структура проекта
-ServiceCenter_1C
-
-├── Code
-│
-│ └── Queries
-│
-├── Reports
-│
-├── Metadata
-│
-├── Screenshots
-│
-└── README.md
-
-
 ---
 
 # Примеры реализации
