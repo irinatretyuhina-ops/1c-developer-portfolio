@@ -193,3 +193,11 @@ Pet-проект на платформе **1С:Предприятие 8.3**, п�
 ![Отчеты](Screenshots/reports1.jpg)
 ![Отчеты](Screenshots/reports2.jpg)
 ![Отчеты](Screenshots/reports3.jpg)
+
+## Скриншоты разработки
+
+### Структура конфигурации
+![Структура](Screenshots/configurator_structure.jpg)
+
+### Схема отчета СКД
+![СКД](Screenshots/skd_scheme.jpg)
