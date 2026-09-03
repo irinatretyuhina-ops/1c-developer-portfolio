@@ -158,5 +158,4 @@ ServiceCenter_1C
 
 # Контакты
 
-GitHub:
-https://github.com/irinatretyuhina-ops
+
