@@ -19,7 +19,7 @@
 
 # Проекты
 
-## ServiceCenter_1C https://github.com/irinatretyuhina-ops/1c-developer-portfolio/tree/main/ServiceCenter_1C
+## [ServiceCenter_1C](https://github.com/irinatretyuhina-ops/1c-developer-portfolio/tree/main/ServiceCenter_1C)
 
 Информационная система автоматизации работы сервисного центра.
 
