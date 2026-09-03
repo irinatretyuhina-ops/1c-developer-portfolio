@@ -1,7 +1,7 @@
-⭐ Current focus:
-Development of business applications on 1C:Enterprise 8.3
+⭐ Текущая специализация: 
+Разработка бизнес-приложений на платформе 1C:Enterprise 8.3
 
-Open to Junior 1C Developer / Trainee opportunities.
+Рассматриваю вакансии младшего разработчика 1C / стажера.
 
 # 1C Developer Portfolio
 
